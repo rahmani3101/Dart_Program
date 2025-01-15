@@ -1,4 +1,4 @@
-streams are used for handling asynchronous data, such as handling a sequence of events or data over time. A stream can emit multiple values, and you can listen for those values asynchronously.
+Streams are used for handling asynchronous data, such as handling a sequence of events or data over time. A stream can emit multiple values, and you can listen for those values asynchronously.
 
 Key Concepts:
 
